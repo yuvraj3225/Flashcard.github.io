@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Flashcard.github.io/static/css/main.16f124fc.css",
+    "main.js": "/Flashcard.github.io/static/js/main.0216711f.js",
+    "static/js/787.5ee9dda9.chunk.js": "/Flashcard.github.io/static/js/787.5ee9dda9.chunk.js",
+    "static/media/not-img.png": "/Flashcard.github.io/static/media/not-img.cca85d842b6bc6893c5d.png",
+    "static/media/logoF.png": "/Flashcard.github.io/static/media/logoF.a71333ba9fe4d72fc96d.png",
+    "static/media/whatsapp-icon.svg": "/Flashcard.github.io/static/media/whatsapp-icon.4b2d9a2b96bcc510de7e42c4c607c1b8.svg",
+    "static/media/mail-icon.svg": "/Flashcard.github.io/static/media/mail-icon.e16ef1279ed3d03f0d990cf5ca9d3f33.svg",
+    "static/media/profileimg.svg": "/Flashcard.github.io/static/media/profileimg.e4fb0bd603b15cce117885ac5ef485a4.svg",
+    "static/media/twitter-icon.svg": "/Flashcard.github.io/static/media/twitter-icon.145d6d908a58b26f0d4c3d5a2d058c9f.svg",
+    "static/media/linkedin-icon.svg": "/Flashcard.github.io/static/media/linkedin-icon.7cee089830681b17c13981a1f0be79a7.svg",
+    "index.html": "/Flashcard.github.io/index.html",
+    "static/media/facebook-icon.svg": "/Flashcard.github.io/static/media/facebook-icon.27cdc27acd49f385f3b6ea70c5511fde.svg",
+    "main.16f124fc.css.map": "/Flashcard.github.io/static/css/main.16f124fc.css.map",
+    "main.0216711f.js.map": "/Flashcard.github.io/static/js/main.0216711f.js.map",
+    "787.5ee9dda9.chunk.js.map": "/Flashcard.github.io/static/js/787.5ee9dda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f124fc.css",
+    "static/js/main.0216711f.js"
+  ]
+}
